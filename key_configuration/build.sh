@@ -1,3 +1,3 @@
 #!/bin/sh
-file=k810_conf
+file=k81X_conf
 gcc -o $file $file.c
